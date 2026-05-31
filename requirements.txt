@@ -1,0 +1,4 @@
+Pillow>=10.0
+pypdf>=3.0
+tkinterdnd2>=0.8
+pyinstaller>=6.0
